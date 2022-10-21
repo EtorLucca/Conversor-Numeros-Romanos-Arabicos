@@ -26,11 +26,11 @@ https://conversor-romanos-arabicos.vercel.app/
 
 
 <h2>Tecnologias utilizadas</h2>
-- Next JS
-- React JS
-- React Hooks (useState)
-- Javascript
-- HTML
-- CSS
-- Flexbox
-- Responsividade
+- Next JS <br>
+- React JS <br>
+- React Hooks (useState) <br>
+- Javascript <br>
+- HTML <br>
+- CSS <br>
+- Flexbox <br>
+- Responsividade <br>
