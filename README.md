@@ -1,12 +1,13 @@
 <h1>Conversor de Números Romanos / Arábicos</h1>
 
 <h3>Para rodar o projeto, basta acessar o link:</h3>
-COLOCAR O LINK AQUI!!!
+https://conversor-romanos-arabicos.vercel.app/
+
 
 <h3>Caso queira rodar no seu computador:</h3>
 
 - Clonar o repositório:
-  <code> git clone COLOCAR O LINK DO GITHUB AQUI </code>
+  <code> git clone https://github.com/EtorLucca/Conversor_Numeros_Romanos-Arabicos.git </code>
 
 - Instalar as dependências:
   <code> yarn install </code>
